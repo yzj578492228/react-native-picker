@@ -1,5 +1,5 @@
 {
-  "name": "@jsser/react-native-picker",
+  "name": "react-native-picker",
   "version": "5.0.0",
   "description": "A Native Picker with high performance.",
   "main": "index.js",
